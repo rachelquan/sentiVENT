@@ -1,0 +1,26 @@
+.first_page {
+    width: 65%;
+    height: 5rem;
+    align-items: center;
+    border-radius: 50%;
+    color: black;
+}
+
+.textbox {
+    width: 65%;
+    height: 100%;
+    background-color: white;
+}
+
+#cancelbuttons {
+    background-color:white;
+    margin: 5px;
+}
+
+#tablehead{
+    background-color: white;
+    align-items: center;
+    /* width: 50%; */
+    color: black;
+
+}

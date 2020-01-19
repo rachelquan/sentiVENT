@@ -1,0 +1,11 @@
+.title-bar {
+    background: #033764 0% 0% no-repeat; 
+    font-family: 'Arial';
+    height: 4.5rem;
+    width: 100%;
+    text-align: left;
+    text-indent: 20px;
+    letter-spacing: 0;
+    color: #efe9e9;
+    opacity: 1;
+}
