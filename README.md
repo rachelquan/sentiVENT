@@ -1,4 +1,4 @@
-# Sentivent (HackDavis 2020)
+# SentiVent (HackDavis 2020)
 
 ## Problem
 Conducting user research on platforms that UC Davis students use frequently, we found an overwhelming amount of negative responses during their time at the university. One particular feeling we noticed was prevalent among UC Davis students was loneliness. In an effort to help improve the overall emotional health of the student body, we decided to create SentiVent.
